@@ -1,0 +1,22 @@
+site_name : Blog d'EMC sur la démocracie
+site_url : https://thegabby.github.io/site_emc/
+
+site_description: >-
+  Ressources pour le cours de Terminale NSI de l'Ecole Internationale PACA
+
+repo_url: https://github.com/thegabby/site_emc_vrai/
+
+theme: material
+ 
+nav :
+  - Home: 'Acceuil.md'
+  - Articles :
+    - Les origines de la démocracie : 'Articles/Les_origines_de_la_democracie.md'
+    - La souveraineté du peuple : 'Articles/La_souverainete_du_peuple'
+    - La démocratie et les élections : 'Articles/La_democracie_et_les_elections.md'
+    - La laïcité : 'Articles/La_laicite.md'
+    - La transformation des régimes politiques : 'Articles/La_transformation_des_regimes_politiques.md'
+    - La protection des démocraties : 'Articles/La_protection_des_democracies.md'
+    - La construction européenne : 'Articles/La_construction_europenne.md' 
+
+  - A propos: 'index.md'
