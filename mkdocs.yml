@@ -9,7 +9,7 @@ repo_url: https://github.com/thegabby/site_emc_vrai/
 theme: material
  
 nav :
-  - Home: 'Acceuil.md'
+  - Home: 'acceuil.md'
   - Articles :
     - Les origines de la démocracie : 'Articles/Les_origines_de_la_democracie.md'
     - La souveraineté du peuple : 'Articles/La_souverainete_du_peuple'
