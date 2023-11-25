@@ -1,4 +1,5 @@
 site_name : Blog d'EMC sur la démocracie
+site_author: Classe Terminale EIPACA
 site_url : https://thegabby.github.io/site_emc/
 
 site_description: >-
@@ -18,5 +19,36 @@ nav :
     - La transformation des régimes politiques : 'Articles/La_transformation_des_regimes_politiques.md'
     - La protection des démocraties : 'Articles/La_protection_des_democracies.md'
     - La construction européenne : 'Articles/La_construction_europenne.md' 
-
+  - Lexique : Lexique.md
+  - Biographies:
+   - Droits civiques: Biographies/Droits-civiques.md
+   - Intelectuels contemporains: Biographies/Intelectuels-contemporains.md
+   - Personnalités politiques française: Biographies/Personnalites-politiques-française.md
+   - Prix nobel de la paix: Biographies/Prix-nobel-de-la-paix.md
+   - Ecrivains engagés: Biographies/Ecrivains-engages.md
+   - Auteurs classiques: Biographies/Auteurs-classiques.md
+   - Art et démocracie: Biographies/Art-et-democracie.md
+   - Auteurs antiques: Biographies/Auteurs-antiques.md
+   - Education et Democracie: Biographies/Education-et-democracie.md
+   - Personalités française contemporraines: Biographies/Personalites-française-contemporraines.md
+   - Démocratie et enjeux environnementaux: Biographies/Democratie-et-enjeux-environnementaux.md
+  - Veille Radio :
+   - Veille Radio Anglophone: Veille-Radio/Veille-Radio-Anglophone.md
+   - Veille Radio Francophone: Veille-Radio/Veille-Radio-Francophone.md
+  - Arts et Engagements Politiques:
+   - Arts: Arts-et-Engagements-Politiques/Arts.md
+   - Litterature: Arts-et-Engagements-Politiques/Litterature.md
+   - Performance: Arts-et-Engagements-Politiques/Performance.md
+  - Veille Presse:
+   - Veille Presse Anglophone: Veille-Presse/Veille-Presse-Anglophone.md
+   - Veille Presse Hispanophone: Veille-Presse/Veille-Presse-Hispanophone.md
+   - Veille Presse Germanophone: Veille-Presse/Veille-Presse-Germanophone.md
+   - Veille Presse Francophone: Veille-Presse/Veille-Presse-Francophone.md
+  - Plus:
+   - Journée événementielle: Plus/Journee-evenementielle.md
+   - Journée 2021-2022: Plus/Journee-2021-2022.md
+   - Journée 2022-2023: Plus/Journee-2022-2023.md
+   - Enquêtes et sondages: Plus/Enquetes-et-sondages.md
+   - Infographie Francophone: Plus/Infographie-Francophone.md
+   - Infographie Anglophone: Plus/Infographie-Anglophone.md
   - A propos: 'index.md'
